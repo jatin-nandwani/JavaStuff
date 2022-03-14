@@ -1,1 +1,1 @@
-# JavaStuff
+# Building Java Programs, enjoy!
